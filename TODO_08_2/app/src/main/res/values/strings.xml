@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO_08_2</string>
+    <string name="uri_label">Uri</string>
+    <string name="error_message">no url found</string>
+</resources>
