@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODO_15</string>
+
+    <string name="tab_lab1">These are the top stories</string>
+    <string name="tab_lab2">These are Tech news</string>
+    <string name="tab_lab3">These are cooking</string>
+    <string name="tab1">Top stories</string>
+    <string name="tab2">Tech news</string>
+    <string name="tab3">Cooking</string>
+
+</resources>
